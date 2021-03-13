@@ -1,14 +1,17 @@
 <poland-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
- <rows> 4</rows>
- <columns>10</columns>
+<grid>grid_2
+ <rows>4</rows>
+ <columns>13</columns>
 </grid>
 <nodes>
- <Pl01_TKS_20mm>				<row> 1</row><column> 2</column></Pl01_TKS_20mm>
- <Pl03_PzV_Poland>				<row> 1</row><column> 6</column></Pl03_PzV_Poland>
- <Pl16_T34_85_Rudy>				<row> 2</row><column> 6</column></Pl16_T34_85_Rudy>
- <Pl08_50TP_prototyp>			<row> 1</row><column> 8</column></Pl08_50TP_prototyp>
- <Pl19_CS_52_LIS>				<row> 2</row><column> 8</column></Pl19_CS_52_LIS>
+ <!--  LT  -->  
+ <Pl01_TKS_20mm>					<row> 1</row><column> 2</column></Pl01_TKS_20mm>
+ <!--  MT  -->  
+ <Pl03_PzV_Poland>				<row> 1</row><column> 3</column></Pl03_PzV_Poland>
+ <Pl16_T34_85_Rudy>				<row> 1</row><column> 4</column></Pl16_T34_85_Rudy>
+ <Pl19_CS_52_LIS>				<row> 1</row><column> 5</column></Pl19_CS_52_LIS>
+ <!--  HT  -->  
+ <Pl08_50TP_prototyp>			<row> 1</row><column> 6</column></Pl08_50TP_prototyp>  
 </nodes>
 </poland-premium.xml>

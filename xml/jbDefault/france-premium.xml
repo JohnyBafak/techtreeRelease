@@ -1,42 +1,36 @@
 <france-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
- <rows> 6</rows>
- <columns>10</columns>
+<grid>grid_2
+ <rows> 4</rows>
+ <columns>13</columns>
 </grid>
 <nodes>
-
- <F19_Lorraine40t>				<row> 1</row><column> 1</column></F19_Lorraine40t>
- <F74_AMX_M4_1949_Liberte>		<row> 2</row><column> 1</column></F74_AMX_M4_1949_Liberte>
- <F84_Somua_SM>					<row> 3</row><column> 1</column></F84_Somua_SM>
- <F106_Panhard_EBR_75_Mle1954>	<row> 2</row><column> 2</column></F106_Panhard_EBR_75_Mle1954>
- <F116_Bat_Chatillon_Bourrasque><row> 3</row><column> 2</column></F116_Bat_Chatillon_Bourrasque>
- 
- 
  <F111_AM39_Gendron_Somua>		<row> 1</row><column> 2</column></F111_AM39_Gendron_Somua>
- <F42_AMR_35>					<row> 2</row><column> 2</column></F42_AMR_35>
- 
- <F27_FCM_36Pak40>				<row> 1</row><column> 3</column></F27_FCM_36Pak40>
- 
- <F28_105_leFH18B2>				<row> 1</row><column> 5</column></F28_105_leFH18B2>
- <F112_M10_RBFM>				<row> 2</row><column> 5</column></F112_M10_RBFM>
- 
- <F113_Bretagne_Panther>		<row> 1</row><column> 6</column></F113_Bretagne_Panther>
- <F85_M4A1_FL10>				<row> 2</row><column> 6</column></F85_M4A1_FL10>
- 
- <F69_AMX13_57_100>				<row> 1</row><column> 7</column></F69_AMX13_57_100>
- <F69_AMX13_57_100_GrandFinal>	<row> 2</row><column> 7</column></F69_AMX13_57_100_GrandFinal>
- 
- <F97_ELC_EVEN_90>				<row> 1</row><column> 8</column></F97_ELC_EVEN_90>
- <F74_AMX_M4_1949>				<row> 2</row><column> 8</column></F74_AMX_M4_1949>
- <F73_M4A1_Revalorise>			<row> 3</row><column> 8</column></F73_M4A1_Revalorise>
- <F89_Canon_dassaut_de_105>		<row> 4</row><column> 8</column></F89_Canon_dassaut_de_105>
- <F68_AMX_Chasseur_de_char_46>	<row> 4</row><column> 7</column></F68_AMX_Chasseur_de_char_46>
- <F65_FCM_50t>					<row> 3</row><column> 7</column></F65_FCM_50t>
- 
- <F114_Projet_4_1>				<row> 1</row><column> 9</column></F114_Projet_4_1>
- <F115_Lorraine_50t>			<row> 2</row><column> 9</column></F115_Lorraine_50t>
- 
- <F64_AMX_50Fosh_155>			<row> 1</row><column>10</column></F64_AMX_50Fosh_155>
+ <F42_AMR_35>					<row> 1</row><column> 3</column></F42_AMR_35>
+ <F69_AMX13_57_100>				<row> 1</row><column> 4</column></F69_AMX13_57_100>
+ <F69_AMX13_57_100_GrandFinal>	<row> 1</row><column> 5</column></F69_AMX13_57_100_GrandFinal>
+ <F97_ELC_EVEN_90>				<row> 1</row><column> 6</column></F97_ELC_EVEN_90>
+ <F106_Panhard_EBR_75_Mle1954>	<row> 1</row><column> 7</column></F106_Panhard_EBR_75_Mle1954>
+
+ <F113_Bretagne_Panther>		<row> 1</row><column> 8</column></F113_Bretagne_Panther>
+ <F85_M4A1_FL10>				<row> 1</row><column> 9</column></F85_M4A1_FL10>
+ <F68_AMX_Chasseur_de_char_46>	<row> 1</row><column>10</column></F68_AMX_Chasseur_de_char_46>
+ <F116_Bat_Chatillon_Bourrasque><row> 1</row><column>11</column></F116_Bat_Chatillon_Bourrasque>
+ <F19_Lorraine40t>				<row> 1</row><column>12</column></F19_Lorraine40t>
+ <F73_M4A1_Revalorise>			<row> 1</row><column>13</column></F73_M4A1_Revalorise>
+ <F114_Projet_4_1>				<row> 2</row><column> 2</column></F114_Projet_4_1>
+
+ <F74_AMX_M4_1949>				<row> 2</row><column> 3</column></F74_AMX_M4_1949>
+ <F74_AMX_M4_1949_Liberte>		<row> 2</row><column> 4</column></F74_AMX_M4_1949_Liberte>
+ <F65_FCM_50t>					<row> 2</row><column> 5</column></F65_FCM_50t>
+ <F84_Somua_SM>					<row> 2</row><column> 6</column></F84_Somua_SM>
+ <F115_Lorraine_50t>			<row> 2</row><column> 7</column></F115_Lorraine_50t>
+
+ <F27_FCM_36Pak40>				<row> 2</row><column> 8</column></F27_FCM_36Pak40>
+ <F112_M10_RBFM>				<row> 2</row><column> 9</column></F112_M10_RBFM>
+ <F89_Canon_dassaut_de_105>		<row> 2</row><column>10</column></F89_Canon_dassaut_de_105>
+ <F64_AMX_50Fosh_155>			<row> 2</row><column>11</column></F64_AMX_50Fosh_155>
+
+ <F28_105_leFH18B2>				<row> 2</row><column>12</column></F28_105_leFH18B2>
 </nodes>
 </france-premium.xml>

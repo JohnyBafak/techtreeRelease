@@ -1,48 +1,44 @@
 <uk-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
- <rows> 5</rows>
- <columns>11</columns>
+<grid>grid_2
+ <rows> 4</rows>
+ <columns>13</columns>
 </grid>
 <nodes>
+ <!--  LT  -->
  <GB76_Mk_VIC>					<row> 1</row><column> 2</column></GB76_Mk_VIC>
- 
- <GB78_Sexton_I>				<row> 1</row><column> 3</column></GB78_Sexton_I>
- 
- <GB33_Sentinel_AC_I>			<row> 1</row><column> 4</column></GB33_Sentinel_AC_I>
- 
- <GB51_Excelsior>				<row> 1</row><column> 5</column></GB51_Excelsior>
- <GB68_Matilda_Black_Prince>	<row> 2</row><column> 5</column></GB68_Matilda_Black_Prince>
- <GB37_Valliant>				<row> 3</row><column> 5</column></GB37_Valliant>
- 
- <GB35_Sentinel_AC_IV>			<row> 1</row><column> 6</column></GB35_Sentinel_AC_IV>
- <GB95_Ekins_Firefly_M4A4>		<row> 2</row><column> 6</column></GB95_Ekins_Firefly_M4A4>
- <GB63_TOG_II>					<row> 3</row><column> 6</column></GB63_TOG_II>
- <GB108_A46>					<row> 4</row><column> 6</column></GB108_A46>
- <GB96_Excalibur>				<row> 4</row><column> 2</column></GB96_Excalibur>
- <GB85_Cromwell_Berlin>			<row> 4</row><column> 5</column></GB85_Cromwell_Berlin>
- <GB105_Black_Prince_2019>		<row> 3</row><column> 2</column></GB105_Black_Prince_2019>
- 
- <GB52_A45>						<row> 1</row><column> 7</column></GB52_A45>
- <GB71_AT_15A>					<row> 2</row><column> 7</column></GB71_AT_15A>
- 
- <GB70_N_FV4202_105>			<row> 1</row><column> 8</column></GB70_N_FV4202_105>
- <GB94_Centurion_Mk5-1_RAAC>	<row> 2</row><column> 8</column></GB94_Centurion_Mk5-1_RAAC>
- <GB93_Caernarvon_AX>			<row> 3</row><column> 8</column></GB93_Caernarvon_AX>
- <GB99_Turtle_Mk1>				<row> 4</row><column> 8</column></GB99_Turtle_Mk1>
- <GB87_Chieftain_T95_turret>	<row> 4</row><column> 3</column></GB87_Chieftain_T95_turret>
- <GB97_Chimera>					<row> 2</row><column> 9</column></GB97_Chimera>
- <GB101_FV1066_Senlac>			<row> 3</row><column> 9</column></GB101_FV1066_Senlac>
- <GB109_GSOR_1008>				<row> 4</row><column> 9</column></GB109_GSOR_1008>
- <GB111_Charlemagne>			<row> 5</row><column> 9</column></GB111_Charlemagne>
- 
- <GB106_Cobra>					<row> 1</row><column> 9</column></GB106_Cobra>
- 
- <GB13_FV215b>					<row> 1</row><column>10</column></GB13_FV215b>
- <GB48_FV215b_183>				<row> 2</row><column>10</column></GB48_FV215b_183>
- <GB70_FV4202_105>				<row> 3</row><column>10</column></GB70_FV4202_105>
- <GB84_Chieftain_Mk6>			<row> 4</row><column>10</column></GB84_Chieftain_Mk6>
- <GB88_T95_Chieftain_turret>	<row> 4</row><column> 7</column></GB88_T95_Chieftain_turret>
- <GB98_T95_FV4201_Chieftain>	<row> 4</row><column> 9</column></GB98_T95_FV4201_Chieftain>
-</nodes>
+ <GB108_A46>					<row> 1</row><column> 3</column></GB108_A46>
+ <GB101_FV1066_Senlac>			<row> 1</row><column> 4</column></GB101_FV1066_Senlac>
+ <!--  MT  -->
+ <GB33_Sentinel_AC_I>			<row> 1</row><column> 5</column></GB33_Sentinel_AC_I>
+ <GB68_Matilda_Black_Prince>	<row> 1</row><column> 6</column></GB68_Matilda_Black_Prince>
+ <GB37_Valliant>				<row> 1</row><column> 7</column></GB37_Valliant>
+ <GB35_Sentinel_AC_IV>			<row> 1</row><column> 8</column></GB35_Sentinel_AC_IV>
+ <GB85_Cromwell_Berlin>			<row> 1</row><column> 9</column></GB85_Cromwell_Berlin>
+ <GB95_Ekins_Firefly_M4A4>		<row> 1</row><column>10</column></GB95_Ekins_Firefly_M4A4>
+ <GB94_Centurion_Mk5-1_RAAC>	<row> 1</row><column>11</column></GB94_Centurion_Mk5-1_RAAC>	
+ <GB87_Chieftain_T95_turret>	<row> 1</row><column>12</column></GB87_Chieftain_T95_turret>	
+ <GB97_Chimera>					<row> 1</row><column>13</column></GB97_Chimera>	
+ <GB70_N_FV4202_105>			<row> 2</row><column> 2</column></GB70_N_FV4202_105>
+ <GB106_Cobra>					<row> 2</row><column> 3</column></GB106_Cobra>
+ <!--  HT  -->
+ <GB51_Excelsior>				<row> 2</row><column> 4</column></GB51_Excelsior>
+ <GB105_Black_Prince_2019>		<row> 2</row><column> 5</column></GB105_Black_Prince_2019>
+ <GB63_TOG_II>					<row> 2</row><column> 6</column></GB63_TOG_II>
+ <GB52_A45>						<row> 2</row><column> 7</column></GB52_A45>	
+ <GB93_Caernarvon_AX>			<row> 2</row><column> 8</column></GB93_Caernarvon_AX>	
+ <GB111_Charlemagne>			<row> 2</row><column> 9</column></GB111_Charlemagne>	
+ <GB84_Chieftain_Mk6>			<row> 2</row><column>10</column></GB84_Chieftain_Mk6>	
+ <GB13_FV215b>					<row> 2</row><column>11</column></GB13_FV215b>
+ <GB88_T95_Chieftain_turret>	<row> 2</row><column>12</column></GB88_T95_Chieftain_turret>
+ <GB98_T95_FV4201_Chieftain>	<row> 2</row><column>13</column></GB98_T95_FV4201_Chieftain>
+ <!--  TD  -->
+ <GB96_Excalibur>				<row> 3</row><column> 2</column></GB96_Excalibur>
+ <GB71_AT_15A>					<row> 3</row><column> 3</column></GB71_AT_15A>
+ <GB109_GSOR_1008>				<row> 3</row><column> 4</column></GB109_GSOR_1008>
+ <GB99_Turtle_Mk1>				<row> 3</row><column> 5</column></GB99_Turtle_Mk1>
+ <GB48_FV215b_183>				<row> 3</row><column> 6</column></GB48_FV215b_183>
+ <!--  ART  -->
+ <GB78_Sexton_I>				<row> 3</row><column> 7</column></GB78_Sexton_I>
+  </nodes>
 </uk-premium.xml>

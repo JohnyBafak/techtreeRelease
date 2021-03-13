@@ -1,12 +1,14 @@
 <italy-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
- <rows> 4</rows>
- <columns>10</columns>
+<grid>grid_2
+ <rows>4</rows>
+ <columns>13</columns>
 </grid>
 <nodes>
- <It13_Progetto_M35_mod_46>		<row> 1</row><column> 8</column></It13_Progetto_M35_mod_46>
- <It18_Progetto_C45_mod_71>		<row> 2</row><column> 8</column></It18_Progetto_C45_mod_71>
- <It20_Carro_Combattimento_45t>	<row> 1</row><column>10</column></It20_Carro_Combattimento_45t>
-</nodes>
+ <!--  MT  -->  
+ <It13_Progetto_M35_mod_46>		<row> 1</row><column> 2</column></It13_Progetto_M35_mod_46>
+ <It18_Progetto_C45_mod_71>		<row> 1</row><column> 3</column></It18_Progetto_C45_mod_71>
+ <!--  HT  -->  
+ <It20_Carro_Combattimento_45t>	<row> 1</row><column> 4</column></It20_Carro_Combattimento_45t>
+  </nodes>
 </italy-premium.xml>

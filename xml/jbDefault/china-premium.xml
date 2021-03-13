@@ -1,27 +1,30 @@
 <china-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
- <rows> 5</rows>
- <columns>10</columns>
+<grid>grid_2
+ <rows>4</rows>
+ <columns>13</columns>
 </grid>
 <nodes>
- <Ch43_WZ_122_2>				<row> 1</row><column> 1</column></Ch43_WZ_122_2>
- <Ch22_113P>					<row> 2</row><column> 1</column></Ch22_113P>
- <Ch41_WZ_111_QL>				<row> 3</row><column> 1</column></Ch41_WZ_111_QL>
- <Ch25_121_mod_1971B>			<row> 1</row><column> 2</column></Ch25_121_mod_1971B>
- <Ch22_113_Beijing_Opera>		<row> 2</row><column> 2</column></Ch22_113_Beijing_Opera>
- <Ch23_112_FL>					<row> 3</row><column> 2</column></Ch23_112_FL>
- <Ch03_WZ_111_A>				<row> 1</row><column> 3</column></Ch03_WZ_111_A>
- <Ch24_Type64>					<row> 1</row><column> 6</column></Ch24_Type64>
- <Ch01_Type59_Gold>				<row> 1</row><column> 4</column></Ch01_Type59_Gold>
- <Ch02_Type62>					<row> 1</row><column> 7</column></Ch02_Type62>
- <Ch39_WZ120_1G_FT>				<row> 1</row><column> 8</column></Ch39_WZ120_1G_FT>
- <Ch23_112>						<row> 2</row><column> 8</column></Ch23_112>
- <Ch26_59_Patton>				<row> 3</row><column> 8</column></Ch26_59_Patton>
- <Ch03_WZ-111>					<row> 4</row><column> 8</column></Ch03_WZ-111>
- <Ch14_T34_3>					<row> 4</row><column> 7</column></Ch14_T34_3>
- <Ch01_Type59>					<row> 1</row><column>10</column></Ch01_Type59>
- <Ch42_WalkerBulldog_M41D>		<row> 1</row><column>10</column></Ch42_WalkerBulldog_M41D>
- <Ch40_WZ120G_FT>				<row> 1</row><column> 9</column></Ch40_WZ120G_FT>
-</nodes>
+ <!--  LT  -->
+ <Ch24_Type64>					<row> 1</row><column> 2</column></Ch24_Type64>
+ <Ch02_Type62>					<row> 1</row><column> 3</column></Ch02_Type62> 
+ <Ch42_WalkerBulldog_M41D>		<row> 1</row><column> 4</column></Ch42_WalkerBulldog_M41D> 
+ <!--  MT  -->
+ <Ch43_WZ_122_2>					<row> 1</row><column> 5</column></Ch43_WZ_122_2>
+ <Ch26_59_Patton>				<row> 1</row><column> 6</column></Ch26_59_Patton>	
+ <Ch14_T34_3>					<row> 1</row><column> 7</column></Ch14_T34_3>
+ <Ch01_Type59>					<row> 1</row><column> 8</column></Ch01_Type59>	
+ <Ch01_Type59_Gold>				<row> 1</row><column> 9</column></Ch01_Type59_Gold>	
+ <Ch25_121_mod_1971B>			<row> 1</row><column>10</column></Ch25_121_mod_1971B>
+ <!--  HT  -->
+ <Ch23_112>						<row> 1</row><column>11</column></Ch23_112>
+ <Ch03_WZ-111>					<row> 1</row><column>12</column></Ch03_WZ-111>
+ <Ch03_WZ_111_A>					<row> 1</row><column>13</column></Ch03_WZ_111_A>
+ <Ch41_WZ_111_QL>				<row> 2</row><column> 2</column></Ch41_WZ_111_QL>
+ <Ch22_113P>						<row> 2</row><column> 3</column></Ch22_113P>
+ <Ch22_113_Beijing_Opera>		<row> 2</row><column> 4</column></Ch22_113_Beijing_Opera>
+ <!--  TD  -->
+ <Ch39_WZ120_1G_FT>				<row> 2</row><column> 5</column></Ch39_WZ120_1G_FT>
+ <Ch40_WZ120G_FT>				<row> 2</row><column> 6</column></Ch40_WZ120G_FT>
+  </nodes>
 </china-premium.xml>

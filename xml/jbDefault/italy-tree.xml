@@ -5,7 +5,6 @@
  <columns>10</columns>
 </grid>
 <nodes>
-
  <It16_Carro_d_assalto_P88>		<row> 5</row><column> 7</column>	<lines><It17_Progetto_CC55_mod_54/></lines>					</It16_Carro_d_assalto_P88>
  <It17_Progetto_CC55_mod_54>	<row> 5</row><column> 8</column>	<lines><It19_Progetto_C50_mod_66/></lines>					</It17_Progetto_CC55_mod_54>
  <It19_Progetto_C50_mod_66>		<row> 5</row><column> 9</column>	<lines><It15_Rinoceronte/></lines>							</It19_Progetto_C50_mod_66>

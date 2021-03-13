@@ -1,0 +1,68 @@
+<germany-premium.xml>
+  <settings>	normal	</settings>
+  <grid>	grid_2	  <rows>	5	</rows>
+    <columns>	13	</columns>
+  </grid>
+  <nodes>
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ LT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<G139_MKA>						<row>1</row>	<column>2</column>	</G139_MKA>
+	<G33_H39_captured>				<row>1</row>	<column>3</column>	</G33_H39_captured>
+	<G108_PzKpfwII_AusfD>			<row>1</row>	<column>4</column>	</G108_PzKpfwII_AusfD>
+	<G117_Toldi_III>				<row>1</row>	<column>5</column>	</G117_Toldi_III>
+	<G36_PzII_J>					<row>1</row>	<column>6</column>	</G36_PzII_J>
+	<G50_T-15>						<row>1</row>	<column>7</column>	</G50_T-15>
+	<G85_Auf_Panther>				<row>1</row>	<column>8</column>	</G85_Auf_Panther>
+	<G85_Aufklarungspanzer_V>		<row>1</row>	<column>9</column>	</G85_Aufklarungspanzer_V>
+	<G140_HWK_30>					<row>1</row>	<column>10</column>	</G140_HWK_30>
+	<G120_M41_90>					<row>1</row>	<column>11</column>	</G120_M41_90>
+	<G120_M41_90_GrandFinal>		<row>1</row>	<column>12</column>	</G120_M41_90_GrandFinal>
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ MT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<G100_Gtraktor_Krupp>			<row>1</row>	<column>13</column>	</G100_Gtraktor_Krupp>
+	<G34_S35_captured>				<row>2</row>	<column>2</column>	</G34_S35_captured>
+	<G107_PzKpfwIII_AusfK>			<row>2</row>	<column>3</column>	</G107_PzKpfwIII_AusfK>
+	<G70_PzIV_Hydro>				<row>2</row>	<column>4</column>	</G70_PzIV_Hydro>
+	<G46_T-25>						<row>2</row>	<column>5</column>	</G46_T-25>
+	<G32_PzV_PzIV>					<row>2</row>	<column>6</column>	</G32_PzV_PzIV>
+	<G32_PzV_PzIV_ausf_Alfa>		<row>2</row>	<column>7</column>	</G32_PzV_PzIV_ausf_Alfa>
+	<G116_Turan_III_prot>			<row>2</row>	<column>8</column>	</G116_Turan_III_prot>
+	<G77_PzIV_Schmalturm>			<row>2</row>	<column>9</column>	</G77_PzIV_Schmalturm>
+	<G78_Panther_M10>				<row>2</row>	<column>10</column>	</G78_Panther_M10>
+	<G154_Kpz_07_RH>				<row>2</row>	<column>11</column>	</G154_Kpz_07_RH>
+	<G142_M48RPz>					<row>2</row>	<column>12</column>	</G142_M48RPz>
+	<G106_PzKpfwPanther_AusfF>		<row>2</row>	<column>13</column>	</G106_PzKpfwPanther_AusfF>
+	<G119_Panzer58>					<row>3</row>	<column>2</column>	</G119_Panzer58>
+	<G119_Pz58_Mutz>				<row>3</row>	<column>3</column>	</G119_Pz58_Mutz>
+	<G119_Panzer58_BF>				<row>3</row>	<column>4</column>	</G119_Panzer58_BF>
+	<G144_Kpz_50t>					<row>3</row>	<column>5</column>	</G144_Kpz_50t>
+	<G147_Kunze_Panzer>				<row>3</row>	<column>6</column>	</G147_Kunze_Panzer>
+	<G105_T-55_NVA_DDR>				<row>3</row>	<column>7</column>	</G105_T-55_NVA_DDR>
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ HT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<G35_B-1bis_captured>			<row>3</row>	<column>8</column>	</G35_B-1bis_captured>	
+	<G122_VK6501H>					<row>3</row>	<column>9</column>	</G122_VK6501H>
+	<G136_Tiger_131>				<row>3</row>	<column>10</column>	</G136_Tiger_131>
+	<G137_PzVI_Tiger_217>			<row>3</row>	<column>11</column>	</G137_PzVI_Tiger_217>
+	<G16_PzVIB_Tiger_II_F>			<row>3</row>	<column>12</column>	</G16_PzVIB_Tiger_II_F>
+	<G58_VK4502P7>					<row>3</row>	<column>13</column>	</G58_VK4502P7>
+	<G118_VK4503>					<row>4</row>	<column>2</column>	</G118_VK4503>	
+	<G143_E75_TS>					<row>4</row>	<column>3</column>	</G143_E75_TS>
+	<G51_Lowe>						<row>4</row>	<column>4</column>	</G51_Lowe>
+	<G115_Typ_205_4_Jun>			<row>4</row>	<column>5</column>	</G115_Typ_205_4_Jun>
+	<G138_VK168_02>					<row>4</row>	<column>6</column>	</G138_VK168_02>
+	<G138_VK168_02_Mauerbrecher>	<row>4</row>	<column>7</column>	</G138_VK168_02_Mauerbrecher>
+	<G141_VK7501K>					<row>4</row>	<column>8</column>	</G141_VK7501K>	
+	<G92_VK7201>					<row>4</row>	<column>9</column>	</G92_VK7201>
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ TD ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	<G151_Pz_Sfl_IC>				<row>4</row>	<column>10</column>	</G151_Pz_Sfl_IC>
+	<G104_Stug_IV>					<row>4</row>	<column>11</column>	</G104_Stug_IV>
+	<G41_DickerMax>					<row>4</row>	<column>12</column>	</G41_DickerMax>
+	<G48_E-25>						<row>4</row>	<column>13</column>	</G48_E-25>
+	<G109_Steyr_WT>					<row>5</row>	<column>2</column>	</G109_Steyr_WT>
+	<G65_JagdTiger_SdKfz_185>		<row>5</row>	<column>3</column>	</G65_JagdTiger_SdKfz_185>
+	<G44_JagdTigerH>				<row>5</row>	<column>4</column>	</G44_JagdTigerH>
+	<G112_KanonenJagdPanzer>		<row>5</row>	<column>5</column>	</G112_KanonenJagdPanzer>
+	<G112_KanonenJagdPanzer_105>	<row>5</row>	<column>6</column>	</G112_KanonenJagdPanzer_105>
+	<G114_Skorpian>					<row>5</row>	<column>7</column>	</G114_Skorpian>
+	<G114_Rheinmetall_Skorpian>		<row>5</row>	<column>8</column>	</G114_Rheinmetall_Skorpian>
+	<G98_Waffentrager_E100_P>		<row>5</row>	<column>9</column>	</G98_Waffentrager_E100_P>
+  </nodes>
+</germany-premium.xml>

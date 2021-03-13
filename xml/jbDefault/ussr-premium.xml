@@ -1,31 +1,87 @@
 <ussr-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
- <rows> 5</rows>
- <columns>10</columns>
+<grid>grid_3
+ <rows>6</rows>
+ <columns>13</columns>
 </grid>
 <nodes>
+ <!--  LT  -->
+ <R125_T_45>					<row> 1</row><column> 1</column></R125_T_45>
  <R84_Tetrarch_LL>				<row> 1</row><column> 2</column></R84_Tetrarch_LL>
- <R56_T-127>					<row> 1</row><column> 3</column></R56_T-127>
- <R86_LTP>						<row> 2</row><column> 3</column></R86_LTP>
- <R105_BT_7A>					<row> 3</row><column> 3</column></R105_BT_7A>
- <R50_SU76I>					<row> 4</row><column> 3</column></R50_SU76I>
- <R31_Valentine_LL>				<row> 1</row><column> 4</column></R31_Valentine_LL>
- <R118_T28_F30>					<row> 2</row><column> 4</column></R118_T28_F30>
- <R33_Churchill_LL>				<row> 1</row><column> 5</column></R33_Churchill_LL>
- <R32_Matilda_II_LL>			<row> 2</row><column> 5</column></R32_Matilda_II_LL>
- <R78_SU_85I>					<row> 3</row><column> 5</column></R78_SU_85I>
- <R49_SU100Y>					<row> 1</row><column> 6</column></R49_SU100Y>
- <R108_T34_85M>					<row> 2</row><column> 6</column></R108_T34_85M>
- <R114_Object_244>				<row> 4</row><column> 6</column></R114_Object_244>
- <R133_KV_122>					<row> 1</row><column> 7</column></R133_KV_122>
- <R89_SU122_44>					<row> 2</row><column> 7</column></R89_SU122_44>
- <R98_T44_85>					<row> 3</row><column> 7</column></R98_T44_85>
- <R61_Object252>				<row> 1</row><column> 8</column></R61_Object252>
- <R112_T54_45>					<row> 2</row><column> 8</column></R112_T54_45>
- <R146_STG>						<row> 3</row><column> 8</column></R146_STG>
- <R121_KV4_KTT>					<row> 4</row><column> 8</column></R121_KV4_KTT>
- <R111_ISU130>					<row> 5</row><column> 8</column></R111_ISU130>
- <R129_Object_257>				<row> 1</row><column>10</column></R129_Object_257>
-</nodes>
+ <R105_BT_7A>					<row> 1</row><column> 3</column></R105_BT_7A>
+ <R34_BT-SV>					<row> 1</row><column> 4</column></R34_BT-SV>
+ <R86_LTP>						<row> 1</row><column> 5</column></R86_LTP>
+ <R67_M3_LL>					<row> 1</row><column> 6</column></R67_M3_LL>
+ <R161_T_116>					<row> 1</row><column> 7</column></R161_T_116>
+ <R56_T-127>					<row> 1</row><column> 8</column></R56_T-127>
+ <R31_Valentine_LL>				<row> 1</row><column> 9</column></R31_Valentine_LL>
+ <R160_T_50_2>					<row> 1</row><column>10</column></R160_T_50_2>
+ <R158_LT_432>					<row> 1</row><column>11</column></R158_LT_432>
+ <R98_T44_85M>					<row> 1</row><column>12</column></R98_T44_85M>
+ <!--  MT  -->
+ <R143_T_29>					<row> 1</row><column>13</column></R143_T_29>
+ <R68_A-32>						<row> 2</row><column> 1</column></R68_A-32>
+ <R118_T28_F30>					<row> 2</row><column> 2</column></R118_T28_F30>
+ <R32_Matilda_II_LL>			<row> 2</row><column> 3</column></R32_Matilda_II_LL>
+ <R154_T_34E_1943>				<row> 2</row><column> 4</column></R154_T_34E_1943>
+ <R140_M4_Loza>					<row> 2</row><column> 5</column></R140_M4_Loza>
+ <R117_T34_85_Rudy>				<row> 2</row><column> 6</column></R117_T34_85_Rudy>
+ <R108_T34_85M>					<row> 2</row><column> 7</column></R108_T34_85M>
+ <R98_T44_85>					<row> 2</row><column> 8</column></R98_T44_85>
+ <R99_T44_122>					<row> 2</row><column> 9</column></R99_T44_122>
+ <R173_K_91_2>					<row> 2</row><column>10</column></R173_K_91_2>
+ <R180_Object_274_A>			<row> 2</row><column>11</column></R180_Object_274_A>
+ <R146_STG>						<row> 2</row><column>12</column></R146_STG>
+ <R146_STG_Tday>				<row> 2</row><column>13</column></R146_STG_Tday>
+ <R122_T44_100>					<row> 3</row><column> 1</column></R122_T44_100>
+ <R122_T44_100B>				<row> 3</row><column> 2</column></R122_T44_100B>
+ <R127_T44_100_K>				<row> 3</row><column> 3</column></R127_T44_100_K>
+ <R127_T44_100_P>				<row> 3</row><column> 4</column></R127_T44_100_P>
+ <R127_T44_100_U>				<row> 3</row><column> 5</column></R127_T44_100_U>
+ <R112_T54_45>					<row> 3</row><column> 6</column></R112_T54_45>
+ <R95_Object_907>				<row> 3</row><column> 7</column></R95_Object_907>
+ <R95_Object_907A>				<row> 3</row><column> 8</column></R95_Object_907A>
+ <R120_T22SR_A22>				<row> 3</row><column> 9</column></R120_T22SR_A22>
+ <!--  HT  -->
+ <R38_KV-220>					<row> 3</row><column>10</column></R38_KV-220>
+ <R38_KV-220_beta>				<row> 3</row><column>11</column></R38_KV-220_beta>	
+ <R33_Churchill_LL>				<row> 3</row><column>12</column></R33_Churchill_LL>
+ <R152_KV2_W>					<row> 3</row><column>13</column></R152_KV2_W>
+ <R114_Object_244>				<row> 4</row><column> 1</column></R114_Object_244>	
+ <R71_IS_2B>					<row> 4</row><column> 2</column></R71_IS_2B>
+ <R175_IS_2_screen>				<row> 4</row><column> 3</column></R175_IS_2_screen>
+ <R156_IS_2M>					<row> 4</row><column> 4</column></R156_IS_2M>
+ <R133_KV_122>					<row> 4</row><column> 5</column></R133_KV_122>
+ <R115_IS-3_auto>				<row> 4</row><column> 6</column></R115_IS-3_auto>
+ <R113_Object_730>				<row> 4</row><column> 7</column></R113_Object_730>
+ <R61_Object252>				<row> 4</row><column> 8</column></R61_Object252>
+ <R61_Object252_BF>				<row> 4</row><column> 9</column></R61_Object252_BF>
+ <R128_KV4_Kreslavskiy>			<row> 4</row><column>10</column></R128_KV4_Kreslavskiy>
+ <R54_KV-5>						<row> 4</row><column>11</column></R54_KV-5>
+ <R123_Kirovets_1>				<row> 4</row><column>12</column></R123_Kirovets_1>
+ <R134_Object_252U>				<row> 4</row><column>13</column></R134_Object_252U>
+ <R134_Object_252K>				<row> 5</row><column> 1</column></R134_Object_252K>
+ <R165_Object_703_II>			<row> 5</row><column> 2</column></R165_Object_703_II>
+ <R165_Object_703_II_2>			<row> 5</row><column> 3</column></R165_Object_703_II_2>
+ <R172_Object_752>				<row> 5</row><column> 4</column></R172_Object_752>
+ <R119_Object_777>				<row> 5</row><column> 5</column></R119_Object_777>
+ <R129_Object_257>				<row> 5</row><column> 6</column></R129_Object_257>
+ <R110_Object_260>				<row> 5</row><column> 7</column></R110_Object_260>
+ <R157_Object_279R>				<row> 5</row><column> 8</column></R157_Object_279R>
+ <R119_Object_777C>				<row> 5</row><column> 9</column></R119_Object_777C>
+ <R178_Object_780>				<row> 5</row><column>10</column></R178_Object_780>
+ <!--  TD  -->
+ <R50_SU76I>					<row> 5</row><column>11</column></R50_SU76I>
+ <R78_SU_85I>					<row> 5</row><column>12</column></R78_SU_85I>
+ <R49_SU100Y>					<row> 6</row><column> 1</column></R49_SU100Y>
+ <R116_ISU122C_Berlin>			<row> 6</row><column> 2</column></R116_ISU122C_Berlin>
+ <R89_SU122_44>					<row> 6</row><column> 3</column></R89_SU122_44>
+ <R111_ISU130>					<row> 6</row><column> 4</column></R111_ISU130>
+ <R177_ISU_152K_BL10>			<row> 6</row><column> 5</column></R177_ISU_152K_BL10>
+ <R121_KV4_KTT>					<row> 6</row><column> 6</column></R121_KV4_KTT>
+ <R159_SU_130PM>				<row> 6</row><column> 7</column></R159_SU_130PM>
+ <R135_T_103>					<row> 6</row><column> 8</column></R135_T_103>
+ <R183_K_91_PT>					<row> 6</row><column> 9</column></R183_K_91_PT>
+ <R126_Object_730_5>			<row> 6</row><column>10</column></R126_Object_730_5>
+  </nodes>
 </ussr-premium.xml>

@@ -1,11 +1,12 @@
 <czech-premium.xml>
 <settings>normal</settings>
-<grid>grid_1
+<grid>grid_2
  <rows> 4</rows>
- <columns>10</columns>
+ <columns>13</columns>
 </grid>
 <nodes>
- <Cz01_Skoda_T40>				<row> 1</row><column> 6</column></Cz01_Skoda_T40>
- <Cz13_T_27>					<row> 1</row><column> 8</column></Cz13_T_27>
+ <Cz01_Skoda_T40>				<row> 1</row><column> 2</column></Cz01_Skoda_T40>
+ <Cz13_T_27>					<row> 1</row><column> 3</column></Cz13_T_27>  
+ <Cz15_Skoda_T-45_Prem>			<row> 1</row><column> 4</column></Cz15_Skoda_T-45_Prem>
 </nodes>
 </czech-premium.xml>
