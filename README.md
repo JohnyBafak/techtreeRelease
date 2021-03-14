@@ -50,6 +50,7 @@ This mod generates list of tanks available for techtree in-game
    
    ''' mods\configs\techtree\ignoreList.txt '''
 </details>
+
 - <details>
    <summary>List of currently ignored vehicles</summary>
    Displays tank names specified in ignoreList.
