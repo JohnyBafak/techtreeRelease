@@ -1,6 +1,6 @@
 import zipfile, glob
 
-verF = 'version'
+verF = 'db.ver'
 
 # read current database
 with open(verF) as f:
