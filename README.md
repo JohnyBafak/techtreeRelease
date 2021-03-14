@@ -42,6 +42,7 @@ This mod generates list of tanks available for techtree in-game
  - isOnlyForBattleRoyaleBattles - SH steel hunter vehicles
  - *any remaing unresolved tag
 </details>
+
 ### Settings
 - <details>
    <summary>Ignore vehicles specified in ignoreList</summary>
@@ -56,10 +57,14 @@ This mod generates list of tanks available for techtree in-game
    
    Formating: each line in ignoreList.txt represents one tank.
    You have to specify nation and tank name separated by ':'. IE:
-   ''' <nation>:<long_name> '''
+    '''
+	<nation>:<long_name> 
+	'''
    ie:
-   ''' ussr:observer
-    germany:G25_PzII_Luchs '''
+   '''
+	ussr:observer
+    germany:G25_PzII_Luchs 
+	'''
 	
    
 </details>
