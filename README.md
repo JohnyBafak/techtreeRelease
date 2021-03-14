@@ -48,7 +48,9 @@ This mod generates list of tanks available for techtree in-game
    <summary>Ignore vehicles specified in ignoreList</summary>
    When allowed mod will ignore tanks specified in ignore list when generating new report.
    
-   ''' mods\configs\techtree\ignoreList.txt '''
+   ``` 
+   mods\configs\techtree\ignoreList.txt 
+   ```
 </details>
 
 - <details>
@@ -58,14 +60,14 @@ This mod generates list of tanks available for techtree in-game
    
    Formating: each line in ignoreList.txt represents one tank.
    You have to specify nation and tank name separated by ':'. IE:
-    '''
-	<nation>:<long_name> 
-	'''
+   ```
+   <nation>:<long_name> 
+   ```
    ie:
-   '''
-	ussr:observer
-    germany:G25_PzII_Luchs 
-	'''
+   ```
+   ussr:observer
+   germany:G25_PzII_Luchs 
+   ```
 	
    
 </details>
