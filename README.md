@@ -18,7 +18,7 @@
   
 </details>
 
-## About [top](#-TechTree)
+## About
 aTechTree mod bring back most of the old features:
 - 2 basic horizontal layouts
 - custom layout support
@@ -37,7 +37,6 @@ For optimal user-experience following mods are recomended:
 - [P0LIR0ID's modsListAPI](https://bitbucket.org/P0LIR0ID/wot-modslist/downloads/)
 
 ## Custom layouts
-[back to top](#)
 Don't like predefined layouts? Create your own, here is how:
 
 1. Create new folder in 
@@ -53,15 +52,12 @@ mods\configs\techtree\xml\
 
 
 ## Settings
-[back to top](#)
 comming soon
 
 ## Issues
-[back to top](#)
 no feedback yet
 
 ## TO-DO
-[back to top](#)
 ahahaha
 
 
