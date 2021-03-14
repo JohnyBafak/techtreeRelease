@@ -37,6 +37,7 @@ For optimal user-experience following mods are recomended:
 - [P0LIR0ID's modsListAPI](https://bitbucket.org/P0LIR0ID/wot-modslist/downloads/)
 
 ## Custom layouts
+[back to top](#)
 Don't like predefined layouts? Create your own, here is how:
 
 1. Create new folder in 
@@ -52,20 +53,23 @@ mods\configs\techtree\xml\
 
 
 ## Settings
+[back to top](#)
 comming soon
 
 ## Issues
+[back to top](#)
 no feedback yet
 
 ## TO-DO
-
+[back to top](#)
+ahahaha
 
 
 
 
 
 # getTanks 0.5.0 
-#### [top](#)
+[back to top](#)
 
 ### About
 This mod generates list of tanks available for techtree in-game
