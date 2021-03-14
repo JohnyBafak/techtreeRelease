@@ -1,11 +1,12 @@
-# ![GitHub Logo](/.github/atechtree.png) TechTree 0.5.3
+# ![GitHub Logo](/.github/atechtree.png) TechTree
+# version 0.5.3
 
-- [About](https://github.com/JohnyBafak/techtreeRelease#About)
-- [Custom Layouts](https://github.com/JohnyBafak/techtreeRelease#custom-layouts)
-- [Settings](https://github.com/JohnyBafak/techtreeRelease#Settings)
-- [Issues](https://github.com/JohnyBafak/techtreeRelease#Issues)
-- [To-Do](https://github.com/JohnyBafak/techtreeRelease#TO-DO)
-- [getTanks](https://github.com/JohnyBafak/techtreeRelease#getTanks-050)
+- [About](#About)
+- [Custom Layouts](#custom-layouts)
+- [Settings](#Settings)
+- [Issues](#Issues)
+- [To-Do](#TO-DO)
+- [getTanks](#getTanks-050)
 
 
 <details>
@@ -17,7 +18,7 @@
   
 </details>
 
-## About 
+## About [top](#
 aTechTree mod bring back most of the old features:
 - 2 basic horizontal layouts
 - custom layout support
