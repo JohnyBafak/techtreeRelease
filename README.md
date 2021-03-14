@@ -1,4 +1,4 @@
-# TechTree reborn release
+# TechTree reborn release ![GitHub Logo](/.github/atechtree.png)
 
 
 <details>
@@ -12,4 +12,3 @@
   
 </details>
 
-![GitHub Logo](/.github/atechtree.png)
