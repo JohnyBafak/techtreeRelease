@@ -1,9 +1,7 @@
 # ![GitHub Logo](/.github/atechtree.png) TechTree reborn release 
 
-### Table of contents
- - 
-
 ## TechTree 0.5.3
+
 <details>
   <summary>Changelog</summary>
   
@@ -12,6 +10,45 @@
   - layout selection in-game  
   
 </details>
+
+## About 
+aTechTree mod bring back most of the old features:
+- 2 basic horizontal layouts
+- custom layout support
+- show collector's vehicles in TT
+- show hidden premium tanks
+- show special/reward tanks
+- show hidden&secret vehicles
+- in-game settings
+- unlock comparison for all tanks in game
+- preview all tanks in game (works well with missing tank mod)
+- automaticaly update layout data
+
+### Requirements:
+For optimal user-experience following mods are recomended:
+- [link](https://bitbucket.org/IzeBerg/modssettingsapi/downloads/)
+- [link](https://bitbucket.org/P0LIR0ID/wot-modslist/downloads/)
+
+## Custom layouts
+Don't like predefined layouts? Create your own, here is how:
+
+1. Create new folder in 
+```
+mods\configs\techtree\xml\
+```
+
+2. Add all *nation-tree* and *nation-premium* .XML files into that folder
+
+3. Edit XML files
+
+4. Select your layout from ingame settings
+
+
+## Settings
+
+## Issues
+
+
 
 ## getTanks 0.5.0
 
@@ -40,7 +77,7 @@ This mod generates list of tanks available for techtree in-game
  - isOnlyForEventBattles - special event vehicle
  - isOnlyForEpicBattles - FL battles vehicles 
  - isOnlyForBattleRoyaleBattles - SH steel hunter vehicles
- - *any remaing unresolved tag
+ *any remaing unresolved tag
 </details>
 
 ### Settings
@@ -59,22 +96,30 @@ This mod generates list of tanks available for techtree in-game
    Only for information.
    
    Formating: each line in ignoreList.txt represents one tank.
-   You have to specify nation and tank name separated by ':'. IE:
+   You have to specify nation and tank name separated by colon:
    ```
    <nation>:<long_name> 
    ```
-   ie:
+   For example:
    ```
    ussr:observer
    germany:G25_PzII_Luchs 
    ```
-	
+</details>
+
+- <details>
+   <summary>Generate new list on start-up</summary>
+   Mod will try to create a new vehicle list every time game is lauched. Not recomended.
    
 </details>
- 
-  
-  ### 0.5.3
-  - automatical layout database update
-  - layout selection in-game  
-  
 
+- <details>
+   <summary>Generate vehicle list</summary>
+   Forcing tankList to be generated from game.
+   
+</details>
+
+### TO-DO
+- add tank price into available informations
+
+  
