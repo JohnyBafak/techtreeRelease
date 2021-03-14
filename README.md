@@ -1,6 +1,12 @@
-# ![GitHub Logo](/.github/atechtree.png) TechTree reborn release 
+# ![GitHub Logo](/.github/atechtree.png) TechTree 0.5.3
 
-## TechTree 0.5.3
+- [About](https://github.com/JohnyBafak/techtreeRelease#About)
+- [Custom Layouts](https://github.com/JohnyBafak/techtreeRelease#custom-layouts)
+- [Settings](https://github.com/JohnyBafak/techtreeRelease#Settings)
+- [Issues](https://github.com/JohnyBafak/techtreeRelease#Issues)
+- [To-Do](https://github.com/JohnyBafak/techtreeRelease#TO-DO)
+- [getTanks](https://github.com/JohnyBafak/techtreeRelease#getTanks-050)
+
 
 <details>
   <summary>Changelog</summary>
@@ -45,12 +51,19 @@ mods\configs\techtree\xml\
 
 
 ## Settings
+comming soon
 
 ## Issues
+no feedback yet
+
+## TO-DO
 
 
 
-## getTanks 0.5.0
+
+
+
+# getTanks 0.5.0
 
 ### About
 This mod generates list of tanks available for techtree in-game
