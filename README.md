@@ -1,5 +1,5 @@
-# TechTree
- TechTree Reborn Release
+# TechTree reborn release
+
 
 <details>
   <summary>Spoiler warning</summary>
@@ -11,3 +11,6 @@
   ```
   
 </details>
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
