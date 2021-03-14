@@ -26,8 +26,8 @@ aTechTree mod bring back most of the old features:
 
 ### Requirements:
 For optimal user-experience following mods are recomended:
-- [link](https://bitbucket.org/IzeBerg/modssettingsapi/downloads/)
-- [link](https://bitbucket.org/P0LIR0ID/wot-modslist/downloads/)
+- [izebreg's ModsSettingsAPI](https://bitbucket.org/IzeBerg/modssettingsapi/downloads/)
+- [P0LIR0ID's modsListAPI](https://bitbucket.org/P0LIR0ID/wot-modslist/downloads/)
 
 ## Custom layouts
 Don't like predefined layouts? Create your own, here is how:
