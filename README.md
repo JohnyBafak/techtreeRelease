@@ -49,14 +49,14 @@ mods\configs\techtree\xml\
 3. Edit XML files
 
 4. Select your layout from ingame settings
-
-
+  
+  
 ## Settings
 comming soon
-
+  
 ## Issues
 no feedback yet
-
+  
 ## TO-DO
 ahahaha
 
@@ -71,7 +71,7 @@ ahahaha
 This mod generates list of tanks available for techtree in-game
 - scan game for all available vehicles currently in game
 - creates report in form of CSV file in ''' mods/<current_version>_tankList.csv '''
-
+  
 ### Available informations
 <details>
  <summary>List</summary>
@@ -94,6 +94,7 @@ This mod generates list of tanks available for techtree in-game
  - isOnlyForBattleRoyaleBattles - SH steel hunter vehicles
  *any remaing unresolved tag
 </details>
+
 
 ### Settings
 - <details>
