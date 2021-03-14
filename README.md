@@ -13,4 +13,3 @@
 </details>
 
 ![GitHub Logo](/.github/atechtree.png)
-Format: ![Alt Text](url)
