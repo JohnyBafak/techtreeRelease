@@ -1,5 +1,5 @@
 # ![GitHub Logo](/.github/atechtree.png) TechTree
-# version 0.5.3
+### version 0.5.3
 
 - [About](#About)
 - [Custom Layouts](#custom-layouts)
@@ -12,13 +12,13 @@
 <details>
   <summary>Changelog</summary>
   
-  ### 0.5.3
+  #### 0.5.3
   - automatical layout database update
   - layout selection in-game  
   
 </details>
 
-## About [top](#
+## About [top](#-TechTree)
 aTechTree mod bring back most of the old features:
 - 2 basic horizontal layouts
 - custom layout support
@@ -31,7 +31,7 @@ aTechTree mod bring back most of the old features:
 - preview all tanks in game (works well with missing tank mod)
 - automaticaly update layout data
 
-### Requirements:
+#### Requirements:
 For optimal user-experience following mods are recomended:
 - [izebreg's ModsSettingsAPI](https://bitbucket.org/IzeBerg/modssettingsapi/downloads/)
 - [P0LIR0ID's modsListAPI](https://bitbucket.org/P0LIR0ID/wot-modslist/downloads/)
@@ -64,7 +64,7 @@ no feedback yet
 
 
 
-# getTanks 0.5.0
+# getTanks 0.5.0 [top](#-TechTree)
 
 ### About
 This mod generates list of tanks available for techtree in-game
