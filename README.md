@@ -1,4 +1,4 @@
-# ![GitHub Logo](https://github.com/JohnyBafak/techtreeRelease/main/.github/atechtree.jpg) TechTree
+# ![GitHub Logo](https://github.com/JohnyBafak/techtreeRelease/main/.github/atechtree.png?raw=true) TechTree
 ### version 0.5.4
 
 - [About](#About)
@@ -37,7 +37,7 @@ aTechTree mod bring back most of the old features:
 - preview all tanks in game (works well with missing tank mod)
 - automaticaly update layout data
 
-![img_0](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/ss_0.jpg?raw=true "Techtree mod in game")
+![img_0](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/ss_0.png?raw=true "Techtree mod in game")
 ![img_1](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/ss_1.jpg?raw=true "Techtree mod in game")
 
 #### Requirements:
