@@ -63,15 +63,15 @@ comming soon
   
 ## Issues
 - premium vehicle in <nat>-tree.xml out of premium grid bounds breaks techtree
-- __have__ __you__ __found any issues? Please report them__ [here](https://github.com/JohnyBafak/techtreeRelease/issues/new) 
+- __have you found any issues? Please report them__ [here](https://github.com/JohnyBafak/techtreeRelease/issues/new) 
   
 ## TO-DO
 - multi-language support
-- extendend comparison with hidden params (gun soft stats etc)´
+- extendend comparison with hidden params (gun soft stats etc)
 - enable more than 6 premium panel rows
 
 
-
+----
 
 
 # getTanks 0.5.0 
