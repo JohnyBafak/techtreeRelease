@@ -80,7 +80,7 @@ comming soon
 ### About
 This mod generates list of tanks available for techtree in-game
 - scan game for all available vehicles currently in game
-- creates report in form of CSV file in ''' mods/<current_version>_tankList.csv '''
+- creates report in form of CSV file in ``` mods/<current_version>_tankList.csv ```
   
 ### Available informations
 <details>
