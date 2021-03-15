@@ -67,6 +67,19 @@
 				<step>138</step>
 			</horizontal>
 		</grid>
+		<grid>grid_4<root>
+				<start>30 30</start>
+				<step>57</step>
+			</root>
+			<vertical>
+				<start>25</start>
+				<step>45</step>
+			</vertical>
+			<horizontal>
+				<start>30</start>
+				<step>138</step>
+			</horizontal>
+		</grid>
 	</grids>
 	<available-nations>
 		<nation>ussr</nation>

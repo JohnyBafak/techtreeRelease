@@ -5,6 +5,7 @@
  <columns>13</columns>
 </grid>
 <nodes>
+ <!--  LT  -->
  <G139_MKA>						<row> 1</row><column> 2</column></G139_MKA>
  <G33_H39_captured>				<row> 1</row><column> 3</column></G33_H39_captured>
  <G108_PzKpfwII_AusfD>			<row> 1</row><column> 4</column></G108_PzKpfwII_AusfD>
@@ -16,7 +17,7 @@
  <G140_HWK_30>					<row> 1</row><column>10</column></G140_HWK_30>
  <G120_M41_90>					<row> 1</row><column>11</column></G120_M41_90>
  <G120_M41_90_GrandFinal>		<row> 1</row><column>12</column></G120_M41_90_GrandFinal>
-
+ <!--  MT  -->
  <G100_Gtraktor_Krupp>			<row> 1</row><column>13</column></G100_Gtraktor_Krupp>
  <G34_S35_captured>				<row> 2</row><column> 2</column></G34_S35_captured>
  <G107_PzKpfwIII_AusfK>			<row> 2</row><column> 3</column></G107_PzKpfwIII_AusfK>
@@ -36,7 +37,7 @@
  <G144_Kpz_50t>					<row> 3</row><column> 5</column></G144_Kpz_50t>
  <G147_Kunze_Panzer>			<row> 3</row><column> 6</column></G147_Kunze_Panzer>
  <G105_T-55_NVA_DDR>			<row> 3</row><column> 7</column></G105_T-55_NVA_DDR>
-	
+ <!--  HT  -->
  <G35_B-1bis_captured>			<row> 3</row><column> 8</column></G35_B-1bis_captured>	
  <G122_VK6501H>					<row> 3</row><column> 9</column></G122_VK6501H>
  <G136_Tiger_131>				<row> 3</row><column>10</column></G136_Tiger_131>
@@ -51,7 +52,7 @@
  <G138_VK168_02_Mauerbrecher>	<row> 4</row><column> 7</column></G138_VK168_02_Mauerbrecher>
  <G141_VK7501K>					<row> 4</row><column> 8</column></G141_VK7501K>	
  <G92_VK7201>					<row> 4</row><column> 9</column></G92_VK7201>
-	
+ <!--  TD  -->
  <G151_Pz_Sfl_IC>				<row> 4</row><column>10</column></G151_Pz_Sfl_IC>
  <G104_Stug_IV>					<row> 4</row><column>11</column></G104_Stug_IV>
  <G41_DickerMax>				<row> 4</row><column>12</column></G41_DickerMax>
@@ -64,5 +65,8 @@
  <G114_Skorpian>				<row> 5</row><column> 7</column></G114_Skorpian>
  <G114_Rheinmetall_Skorpian>	<row> 5</row><column> 8</column></G114_Rheinmetall_Skorpian>
  <G98_Waffentrager_E100_P>		<row> 5</row><column> 9</column></G98_Waffentrager_E100_P>
+ <!--  China  -->
+ <G32_PzV_PzIV_CN>				<row> 5</row><column>10</column></G32_PzV_PzIV_CN>
+ <G32_PzV_PzIV_ausf_Alfa_CN>	<row> 5</row><column>10</column></G32_PzV_PzIV_ausf_Alfa_CN>
 </nodes>
 </germany-premium.xml>

@@ -6,6 +6,7 @@
 </grid>
 <nodes>
  <F01_RenaultFT>				<row> 6</row><column> 1</column>	<lines><F50_FCM36_20t/></lines> 						</F01_RenaultFT>
+ <F43_AMC_35_SH>				<row> 8</row><column> 1</column></F43_AMC_35_SH>
  
  <F20_RenaultBS>				<row> 1</row><column> 2</column></F20_RenaultBS>
  <F21_Lorraine39_L_AM>			<row> 1</row><column> 3</column></F21_Lorraine39_L_AM>

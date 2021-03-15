@@ -1,11 +1,12 @@
 <ussr-tree.xml>
 <settings>normal</settings>
-<grid>grid_1
+<grid>grid_4
  <rows>14</rows>
  <columns>10</columns>
 </grid>
 <nodes>
  <R11_MS-1>						<row> 7</row><column> 1</column>	<lines><R08_BT-2/><R42_T-60/></lines>				</R11_MS-1>
+ <R46_KV-13_SH>					<row> 9</row><column> 1</column></R46_KV-13_SH>
  
  <R16_SU-18>					<row> 1</row><column> 2</column></R16_SU-18>
  <R66_SU-26>					<row> 1</row><column> 3</column></R66_SU-26>

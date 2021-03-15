@@ -6,6 +6,7 @@
 </grid>
 <nodes>
  <GB03_Cruiser_Mk_I>			<row> 6</row><column> 1</column>	<lines><GB69_Cruiser_Mk_II/></lines>					</GB03_Cruiser_Mk_I>
+ <GB107_Cavalier_SH>			<row> 8</row><column> 1</column></GB107_Cavalier_SH>
  
  <GB25_Loyd_Gun_Carriage>		<row> 1</row><column> 2</column></GB25_Loyd_Gun_Carriage>
  <GB27_Sexton>					<row> 1</row><column> 3</column></GB27_Sexton>

@@ -6,6 +6,8 @@
 </grid>
 <nodes>
  <G12_Ltraktor>					<row> 6</row><column> 1</column>	<lines><G06_PzII/></lines>							</G12_Ltraktor> 
+ <G24_VK3002DB_SH>				<row> 8</row><column> 1</column></G24_VK3002DB_SH>
+ <G00_Bomber_SH>				<row> 9</row><column> 1</column></G00_Bomber_SH>
  
  <G93_GW_Mk_VIe>				<row> 1</row><column> 2</column></G93_GW_Mk_VIe>
  <G19_Wespe>					<row> 1</row><column> 3</column></G19_Wespe>

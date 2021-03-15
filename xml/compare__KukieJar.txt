@@ -1,0 +1,150 @@
+xml_compare_missing for game version 1.12.0.0
+
+-T----class----gold--hidd-name------------- new czech [1]
+ 7  heavyTank  True  True Cz15_Skoda_T-45_Prem
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new france [14]
+ 4 mediumTank False False F70_SARL42
+ 1 mediumTank False  True F43_AMC_35_SH
+ 4        SPG False False F66_AMX_Ob_Am105
+ 2     AT-SPG False False F30_RenaultFT_AC
+10 mediumTank False False F72_AMX_30
+ 3        SPG False False F21_Lorraine39_L_AM
+ 2        SPG False False F20_RenaultBS
+ 2  lightTank False False F49_RenaultR35
+ 2  lightTank False False F02_D1
+ 2  lightTank False False F12_Hotchkiss_H35
+ 3 mediumTank False False F03_D2
+ 9 mediumTank False False F71_AMX_30_prototype
+ 5 mediumTank False False F11_Renault_G1R
+ 3     AT-SPG False False F52_RenaultUE57
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new germany [30]
+ 3  lightTank False False G63_PzI_ausf_C
+ 5 mediumTank False  True G79_Pz_IV_AusfGH
+ 1 mediumTank False  True G24_VK3002DB_SH
+ 1  lightTank False  True G00_Bomber_SH
+ 3     AT-SPG False False G20_Marder_II
+ 4        SPG False False G22_Sturmpanzer_II
+ 4  heavyTank False False G90_DW_II
+ 4     AT-SPG False False G09_Hetzer
+ 8     AT-SPG False False G71_JagdPantherII
+ 4        SPG False False G95_Pz_Sfl_IVb
+ 2  lightTank False False G07_Pz35t
+10     AT-SPG False  True G98_Waffentrager_E100
+ 6 mediumTank False False G87_VK3002DB_V1
+ 2        SPG False False G93_GW_Mk_VIe
+ 1        SPG False  True Env_Artillery
+ 4 mediumTank False False G80_Pz_IV_AusfD
+ 3        SPG False False G19_Wespe
+ 2  lightTank False False G53_PzI
+ 2     AT-SPG False False G21_PanzerJager_I
+ 3 mediumTank False False G83_Pz_IV_AusfA
+ 5 mediumTank False False G28_PzIII_IV
+ 6 mediumTank  True  True G32_PzV_PzIV_ausf_Alfa_CN
+ 5     AT-SPG False False G76_Pz_Sfl_IVc
+ 6 mediumTank  True  True G32_PzV_PzIV_CN
+ 4  lightTank False False G52_Pz38_NA
+ 3  lightTank False False G08_Pz38t
+ 7  heavyTank False  True G04_PzVI_Tiger_IA
+ 4     AT-SPG False False G39_Marder_III
+ 4 mediumTank False False G86_VK2001DB
+ 3        SPG False False G11_Bison_I
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new china [3]
+10  heavyTank False False Ch22_113
+ 2     AT-SPG False False Ch30_T-26G_FT
+ 3     AT-SPG False False Ch31_M3G_FT
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new italy [1]
+ 2  lightTank False False It05_Carro_L6_40
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new japan [7]
+ 4  lightTank False False J06_Ke_Ho
+ 4  heavyTank False False J22_Type_95
+ 3  lightTank False False J04_Ke_Ni
+ 3  heavyTank False False J21_Type_91
+ 2 mediumTank False False J15_Chi_Ni
+ 2 mediumTank False False J26_Type_89
+ 5  heavyTank False False J23_Mi_To
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new poland [0]
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new sweden [2]
+ 2     AT-SPG False False S09_L_120_TD
+ 3     AT-SPG False False S20_Ikv_72
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new uk [17]
+ 4 mediumTank False False GB17_Grant_I
+ 4        SPG False False GB26_Birch_Gun
+ 6 mediumTank False False GB19_Sherman_Firefly
+ 2 mediumTank False False GB05_Vickers_Medium_Mk_II
+ 1 mediumTank False  True GB107_Cavalier_SH
+ 4     AT-SPG False False GB57_Alecto
+ 3        SPG False False GB27_Sexton
+ 3  lightTank False False GB15_Stuart_I
+ 1 mediumTank False False GB01_Medium_Mark_I
+10 mediumTank False  True GB70_FV4202_105
+ 6     AT-SPG False False GB40_Gun_Carrier_Churchill
+ 5 mediumTank False False GB50_Sherman_III
+ 5     AT-SPG False False GB44_Archer
+ 2        SPG False False GB25_Loyd_Gun_Carriage
+ 2     AT-SPG False False GB39_Universal_CarrierQF2
+ 3 mediumTank False False GB06_Vickers_Medium_Mk_III
+ 2  lightTank False False GB14_M2
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new usa [20]
+ 3     AT-SPG False False A109_T56_GMC
+ 8 mediumTank False  True A08_T23
+ 6  lightTank False False A71_T21
+ 2        SPG False  True A15_T57
+ 2     AT-SPG False False A46_T3
+ 2     AT-SPG False  True A26_T18
+ 4     AT-SPG False False A29_T40
+ 3        SPG False False A16_M7_Priest
+ 6 mediumTank False False A36_Sherman_Jumbo
+ 3 mediumTank False False A25_M2_med
+ 7  lightTank False False A103_T71E1
+ 4        SPG False False A27_T82
+ 3        SPG False False A108_T18_HMC
+ 1 mediumTank False  True A72_T25_2_SH
+ 4        SPG False False A17_M37
+ 5     AT-SPG False False A58_T67
+ 5  lightTank False False A23_M7_med
+ 2        SPG False False A107_T1_HMC
+ 2 mediumTank False False A24_T2_med
+ 4 mediumTank False False A04_M3_Grant
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
+
+-T----class----gold--hidd-name------------- new ussr [21]
+ 1  lightTank False  True Observer
+10 mediumTank False False R87_T62A
+ 5  lightTank False  True R70_T_50_2
+ 4  lightTank False False R44_T80
+ 5  lightTank False False R41_T-50
+ 2  lightTank False False R09_T-26
+ 7 mediumTank False False R46_KV-13
+ 1 mediumTank False  True R46_KV-13_SH
+ 9     AT-SPG False  True R75_SU122_54
+ 5  heavyTank False  True R05_KV
+ 2     AT-SPG False False R10_AT-1
+ 4     AT-SPG False False R25_GAZ-74b
+ 2        SPG False False R16_SU-18
+ 8  heavyTank False  True R115_IS-3_auto_test
+10 mediumTank False  True R96_Object_430B
+10     AT-SPG False  True R93_Object263B
+ 4        SPG False False R14_SU-5
+ 3        SPG False False R66_SU-26
+ 7        SPG False False R91_SU14_1
+ 3  lightTank False False R22_T-46
+ 6  heavyTank False False R106_KV85
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
