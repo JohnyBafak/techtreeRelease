@@ -1,4 +1,4 @@
-# ![GitHub Logo](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/atechtree.jpg?raw=true) TechTree
+# ![GitHub Logo](https://github.com/JohnyBafak/techtreeRelease/main/.github/atechtree.jpg) TechTree
 ### version 0.5.4
 
 - [About](#About)
