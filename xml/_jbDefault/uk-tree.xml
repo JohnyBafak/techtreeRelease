@@ -47,9 +47,8 @@
  <GB12_Conqueror>				<row> 6</row><column> 9</column>	<lines><GB91_Super_Conqueror/></lines>					</GB12_Conqueror>
  <GB91_Super_Conqueror>			<row> 6</row><column>10</column></GB91_Super_Conqueror>
  
- <GB01_Medium_Mark_I>			<row> 8</row><column> 1</column></GB01_Medium_Mark_I>
- <GB05_Vickers_Medium_Mk_II>	<row> 8</row><column> 2</column></GB05_Vickers_Medium_Mk_II>
- <GB06_Vickers_Medium_Mk_III>	<row> 8</row><column> 3</column></GB06_Vickers_Medium_Mk_III>
+ <GB14_M2>						<row> 8</row><column> 2</column></GB14_M2>
+ <GB15_Stuart_I>				<row> 8</row><column> 3</column></GB15_Stuart_I>
  <GB107_Cavalier>				<row> 8</row><column> 5</column>	<lines><GB21_Cromwell/></lines>							</GB107_Cavalier>
  <GB21_Cromwell>				<row> 8</row><column> 6</column>	<lines><GB22_Comet/></lines>							</GB21_Cromwell>
  <GB22_Comet>					<row> 8</row><column> 7</column>	<lines><GB23_Centurion/></lines>						</GB22_Comet>
@@ -57,8 +56,9 @@
  <GB24_Centurion_Mk3>			<row> 8</row><column> 9</column>	<lines><GB86_Centurion_Action_X/></lines>				</GB24_Centurion_Mk3>
  <GB86_Centurion_Action_X>		<row> 8</row><column>10</column></GB86_Centurion_Action_X>
  
- <GB14_M2>						<row> 9</row><column> 2</column></GB14_M2>
- <GB15_Stuart_I>				<row> 9</row><column> 3</column></GB15_Stuart_I>
+ <GB01_Medium_Mark_I>			<row> 9</row><column> 1</column></GB01_Medium_Mark_I>
+ <GB05_Vickers_Medium_Mk_II>	<row> 9</row><column> 2</column></GB05_Vickers_Medium_Mk_II>
+ <GB06_Vickers_Medium_Mk_III>	<row> 9</row><column> 3</column></GB06_Vickers_Medium_Mk_III>
  <GB17_Grant_I>					<row> 9</row><column> 4</column></GB17_Grant_I>
  <GB50_Sherman_III>				<row> 9</row><column> 5</column></GB50_Sherman_III>
  <GB19_Sherman_Firefly>			<row> 9</row><column> 6</column></GB19_Sherman_Firefly>

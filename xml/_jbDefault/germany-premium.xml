@@ -67,6 +67,6 @@
  <G98_Waffentrager_E100_P>		<row> 5</row><column> 9</column></G98_Waffentrager_E100_P>
  <!--  China  -->
  <G32_PzV_PzIV_CN>				<row> 5</row><column>10</column></G32_PzV_PzIV_CN>
- <G32_PzV_PzIV_ausf_Alfa_CN>	<row> 5</row><column>10</column></G32_PzV_PzIV_ausf_Alfa_CN>
+ <G32_PzV_PzIV_ausf_Alfa_CN>	<row> 5</row><column>11</column></G32_PzV_PzIV_ausf_Alfa_CN>
 </nodes>
 </germany-premium.xml>
