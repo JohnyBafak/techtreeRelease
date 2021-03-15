@@ -36,6 +36,7 @@ aTechTree mod bring back most of the old features:
 - unlock comparison for all tanks in game
 - preview all tanks in game (works well with missing tank mod)
 - automaticaly update layout data
+![GitHub Logo](/.github/Layout.png)
 
 #### Requirements:
 For optimal user-experience following mods are recomended:
@@ -46,13 +47,15 @@ For optimal user-experience following mods are recomended:
 Don't like predefined layouts? Create your own, here is how:
 
 1. Create new folder in 
-```
-mods\configs\techtree\xml\
-```
+  ```
+  mods\configs\techtree\xml\
+  ```
+  ![GitHub Logo](/.github/CL_0.png)
 2. Add all *nation-tree* and *nation-premium* .XML files into that folder
 3. Add *tree-shared.xml* file
 4. Edit XML files
 5. Select your layout from ingame settings
+	![GitHub Logo](/.github/CL_1.png)
 
 ## Settings
 comming soon
