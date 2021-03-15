@@ -63,7 +63,7 @@ comming soon
   
 ## Issues
 - premium vehicle in <nat>-tree.xml out of premium grid bounds breaks techtree
-- *** have you fond any issues? Please report them [here](https://github.com/JohnyBafak/techtreeRelease/issues/new)***
+- ** have you fond any issues? Please report them [here](https://github.com/JohnyBafak/techtreeRelease/issues/new)**
   
 ## TO-DO
 - multi-language support
