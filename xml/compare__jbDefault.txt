@@ -1,51 +1,49 @@
 xml_compare_missing for game version 1.12.0.0
 
--T----class----gold--hidd-name------------- new czech [0]
+-T----class---gold--hidd-colect-name------------- new czech [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new france [0]
+-T----class---gold--hidd-colect-name------------- new france [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new germany [6]
- 5 mediumTank False False G28_PzIII_IV
-10     AT-SPG False  True G98_Waffentrager_E100
- 7  heavyTank False  True G04_PzVI_Tiger_IA
- 6 mediumTank False False G87_VK3002DB_V1
- 5 mediumTank False  True G79_Pz_IV_AusfGH
- 1        SPG False  True Env_Artillery
+-T----class---gold--hidd-colect-name------------- new germany [4]
+ 7  heavyTank False  True False G04_PzVI_Tiger_IA
+10     AT-SPG False  True False G98_Waffentrager_E100
+ 5 mediumTank False  True False G79_Pz_IV_AusfGH
+ 1        SPG False  True False Env_Artillery
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new china [0]
+-T----class---gold--hidd-colect-name------------- new china [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new italy [0]
+-T----class---gold--hidd-colect-name------------- new italy [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new japan [0]
+-T----class---gold--hidd-colect-name------------- new japan [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new poland [0]
+-T----class---gold--hidd-colect-name------------- new poland [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new sweden [0]
+-T----class---gold--hidd-colect-name------------- new sweden [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new uk [1]
-10 mediumTank False  True GB70_FV4202_105
+-T----class---gold--hidd-colect-name------------- new uk [1]
+10 mediumTank False  True False GB70_FV4202_105
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new usa [3]
- 2     AT-SPG False  True A26_T18
- 8 mediumTank False  True A08_T23
- 2        SPG False  True A15_T57
+-T----class---gold--hidd-colect-name------------- new usa [3]
+ 2     AT-SPG False  True False A26_T18
+ 8 mediumTank False  True False A08_T23
+ 2        SPG False  True False A15_T57
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class----gold--hidd-name------------- new ussr [7]
- 1  lightTank False  True Observer
-10 mediumTank False  True R96_Object_430B
- 9     AT-SPG False  True R75_SU122_54
- 5  heavyTank False  True R05_KV
- 8  heavyTank False  True R115_IS-3_auto_test
-10     AT-SPG False  True R93_Object263B
- 5  lightTank False  True R70_T_50_2
+-T----class---gold--hidd-colect-name------------- new ussr [7]
+ 1  lightTank False  True False Observer
+10 mediumTank False  True False R96_Object_430B
+ 9     AT-SPG False  True False R75_SU122_54
+ 5  heavyTank False  True False R05_KV
+ 8  heavyTank False  True False R115_IS-3_auto_test
+10     AT-SPG False  True False R93_Object263B
+ 5  lightTank False  True False R70_T_50_2
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
