@@ -1,5 +1,5 @@
 # ![GitHub Logo](/.github/atechtree.png) TechTree
-### version 0.5.3
+### version 0.5.4
 
 - [About](#About)
 - [Custom Layouts](#custom-layouts)
@@ -16,8 +16,8 @@
   - layout change now loads layout specific tree-shared.xml
   - all layouts moved to ```mods\configs\techtree\xml\ <layout name>```
   - default layouts _KukieJar & _jbDefaul will get overriden by database update
-  - support for 3rd party custom layouts in ```\xml\folder```
-  
+  - support for 3rd party custom layouts in ```\xml\\``` folder
+   
   #### 0.5.3
   - automatical layout database update
   - layout selection in-game  
