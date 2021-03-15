@@ -37,7 +37,7 @@ aTechTree mod bring back most of the old features:
 - preview all tanks in game (works well with missing tank mod)
 - automaticaly update layout data
 
- ![img_0](/.github/Layout.png?raw=true "Title")
+ ![img_0](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/Layout.jpg?raw=true "Title")
 
 #### Requirements:
 For optimal user-experience following mods are recomended:
@@ -48,10 +48,8 @@ For optimal user-experience following mods are recomended:
 Don't like predefined layouts? Create your own, here is how:
 
 1. Create new folder in 
-  ```
-  mods\configs\techtree\xml\
-  ```
-  ![CL folder](/.github/CL_0.png)
+	```  <WorldofTanks>\mods\configs\techtree\xml\ ```
+	![CL folder](/.github/CL_0.png)
   
 2. Add all *nation-tree* and *nation-premium* .XML files into that folder
 3. Add *tree-shared.xml* file
