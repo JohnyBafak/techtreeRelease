@@ -1,4 +1,4 @@
-# ![GitHub Logo](/.github/atechtree.png) TechTree
+# ![GitHub Logo](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/atechtree.jpg?raw=true) TechTree
 ### version 0.5.4
 
 - [About](#About)
@@ -37,7 +37,8 @@ aTechTree mod bring back most of the old features:
 - preview all tanks in game (works well with missing tank mod)
 - automaticaly update layout data
 
- ![img_0](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/Layout.jpg?raw=true "Title")
+![img_0](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/ss_0.jpg?raw=true "Techtree mod in game")
+![img_1](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/ss_1.jpg?raw=true "Techtree mod in game")
 
 #### Requirements:
 For optimal user-experience following mods are recomended:
@@ -55,16 +56,19 @@ Don't like predefined layouts? Create your own, here is how:
 3. Add *tree-shared.xml* file
 4. Edit XML files
 5. Select your layout from ingame settings
-	![CL ingame](https://raw.githubusercontent.com/JohnyBafak/techtreeRelease/main/.github/CL_1.jpg)
+	![CL ingame](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/CL_1.jpg?raw=true)
 
 ## Settings
 comming soon
   
 ## Issues
-no feedback yet
+- premium vehicle in <nat>-tree.xml out of premium grid bounds breaks techtree
+- *** have you fond any issues? Please report them [here](https://github.com/JohnyBafak/techtreeRelease/issues/new)***
   
 ## TO-DO
-ahahaha
+- multi-language support
+- extendend comparison with hidden params (gun soft stats etc)´
+- enable more than 6 premium panel rows
 
 
 
