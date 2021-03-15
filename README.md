@@ -12,6 +12,12 @@
 <details>
   <summary>Changelog</summary>
   
+  #### 0.5.4
+  - layout change now loads layout specific tree-shared.xml
+  - all layouts moved to ```mods\configs\techtree\xml\ <layout name>```
+  - default layouts _KukieJar & _jbDefaul will get overriden by database update
+  - support for 3rd party custom layouts in ```\xml\folder```
+  
   #### 0.5.3
   - automatical layout database update
   - layout selection in-game  
@@ -43,14 +49,11 @@ Don't like predefined layouts? Create your own, here is how:
 ```
 mods\configs\techtree\xml\
 ```
-
 2. Add all *nation-tree* and *nation-premium* .XML files into that folder
+3. Add *tree-shared.xml* file
+4. Edit XML files
+5. Select your layout from ingame settings
 
-3. Edit XML files
-
-4. Select your layout from ingame settings
-  
-  
 ## Settings
 comming soon
   
