@@ -52,11 +52,12 @@ Don't like predefined layouts? Create your own, here is how:
   mods\configs\techtree\xml\
   ```
   ![CL folder](/.github/CL_0.png)
+  
 2. Add all *nation-tree* and *nation-premium* .XML files into that folder
 3. Add *tree-shared.xml* file
 4. Edit XML files
 5. Select your layout from ingame settings
-	![CL ingame](/.github/CL_1.png?raw=true)
+	![CL ingame](https://raw.githubusercontent.com/JohnyBafak/techtreeRelease/main/.github/CL_1.jpg)
 
 ## Settings
 comming soon
