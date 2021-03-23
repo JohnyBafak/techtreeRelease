@@ -12,6 +12,10 @@
 <details>
   <summary>Changelog</summary>
   
+  #### 0.5.5
+  - techtree layout change cleanup
+  - new option for hidden non-premium tanks (removed tanks) tanks
+  
   #### 0.5.4
   - layout change now loads layout specific tree-shared.xml
   - all layouts moved to ```mods\configs\techtree\xml\ <layout name>```
