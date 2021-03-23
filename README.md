@@ -1,5 +1,5 @@
 # ![GitHub Logo](https://github.com/JohnyBafak/techtreeRelease/blob/main/.github/atechtree.png?raw=true) TechTree
-### version 0.5.4
+### version 0.5.5
 
 - [About](#About)
 - [Custom Layouts](#custom-layouts)
