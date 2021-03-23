@@ -6,11 +6,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed
 -T----class---gold--hidd-colect-name------------- new france [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class---gold--hidd-colect-name------------- new germany [4]
- 7  heavyTank False  True False G04_PzVI_Tiger_IA
-10     AT-SPG False  True False G98_Waffentrager_E100
- 5 mediumTank False  True False G79_Pz_IV_AusfGH
- 1        SPG False  True False Env_Artillery
+-T----class---gold--hidd-colect-name------------- new germany [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
 -T----class---gold--hidd-colect-name------------- new china [0]
@@ -28,14 +24,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed
 -T----class---gold--hidd-colect-name------------- new sweden [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class---gold--hidd-colect-name------------- new uk [1]
-10 mediumTank False  True False GB70_FV4202_105
+-T----class---gold--hidd-colect-name------------- new uk [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class---gold--hidd-colect-name------------- new usa [3]
- 2     AT-SPG False  True False A26_T18
- 8 mediumTank False  True False A08_T23
- 2        SPG False  True False A15_T57
+-T----class---gold--hidd-colect-name------------- new usa [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
 -T----class---gold--hidd-colect-name------------- new ussr [7]

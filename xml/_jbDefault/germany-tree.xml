@@ -6,9 +6,14 @@
 </grid>
 <nodes>
  <G12_Ltraktor>					<row> 6</row><column> 1</column>	<lines><G06_PzII/></lines>							</G12_Ltraktor>
+ 
  <G24_VK3002DB_SH>				<row> 8</row><column> 1</column></G24_VK3002DB_SH>
  <G00_Bomber_SH>				<row> 9</row><column> 1</column></G00_Bomber_SH>
-
+ <Env_Artillery>				<row> 1</row><column> 1</column></Env_Artillery>
+ <G79_Pz_IV_AusfGH>				<row> 2</row><column> 1</column></G79_Pz_IV_AusfGH>
+ <G04_PzVI_Tiger_IA>			<row> 3</row><column> 1</column></G04_PzVI_Tiger_IA>
+ <G98_Waffentrager_E100>		<row> 4</row><column> 1</column></G98_Waffentrager_E100>
+ 
  <G93_GW_Mk_VIe>				<row> 1</row><column> 2</column></G93_GW_Mk_VIe>
  <G19_Wespe>					<row> 1</row><column> 3</column></G19_Wespe>
  <G22_Sturmpanzer_II>			<row> 1</row><column> 4</column></G22_Sturmpanzer_II>

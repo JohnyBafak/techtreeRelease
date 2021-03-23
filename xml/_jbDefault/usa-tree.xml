@@ -7,7 +7,9 @@
 <nodes>
  <A01_T1_Cunningham>			<row> 6</row><column> 1</column>	<lines><A02_M2_lt/></lines>							</A01_T1_Cunningham>
  <A72_T25_2_SH>					<row> 8</row><column> 1</column></A72_T25_2_SH>
- 
+ <A15_T57>						<row> 1</row><column> 1</column></A15_T57>
+ <A26_T18>						<row> 2</row><column> 1</column></A26_T18>
+ <A08_T23>						<row> 3</row><column> 1</column></A08_T23>
  <A107_T1_HMC>					<row> 1</row><column> 2</column></A107_T1_HMC>
  <A16_M7_Priest>				<row> 1</row><column> 3</column></A16_M7_Priest>
  <A17_M37>						<row> 1</row><column> 4</column></A17_M37>
