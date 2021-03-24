@@ -7,7 +7,14 @@
 <nodes>
  <R11_MS-1>						<row> 7</row><column> 1</column>	<lines><R08_BT-2/><R42_T-60/></lines>				</R11_MS-1>
  <R46_KV-13_SH>					<row> 9</row><column> 1</column></R46_KV-13_SH>
- 
+ <Observer>						<row>13</row><column> 1</column></Observer>
+ <R05_KV>						<row> 1</row><column> 1</column></R05_KV>
+ <R70_T_50_2>					<row> 2</row><column> 1</column></R70_T_50_2>
+ <R115_IS-3_auto_test>			<row> 3</row><column> 1</column></R115_IS-3_auto_test>
+ <R75_SU122_54>					<row> 4</row><column> 1</column></R75_SU122_54>
+ <R93_Object263B>				<row> 5</row><column> 1</column></R93_Object263B>
+ <R96_Object_430B>				<row> 6</row><column> 1</column></R96_Object_430B>
+  
  <R16_SU-18>					<row> 1</row><column> 2</column></R16_SU-18>
  <R66_SU-26>					<row> 1</row><column> 3</column></R66_SU-26>
  <R14_SU-5>						<row> 1</row><column> 4</column></R14_SU-5>

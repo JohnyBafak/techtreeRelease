@@ -30,12 +30,5 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed
 -T----class---gold--hidd-colect-name------------- new usa [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
 
--T----class---gold--hidd-colect-name------------- new ussr [7]
- 1  lightTank False  True False Observer
-10 mediumTank False  True False R96_Object_430B
- 9     AT-SPG False  True False R75_SU122_54
- 5  heavyTank False  True False R05_KV
- 8  heavyTank False  True False R115_IS-3_auto_test
-10     AT-SPG False  True False R93_Object263B
- 5  lightTank False  True False R70_T_50_2
+-T----class---gold--hidd-colect-name------------- new ussr [0]
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxx ------------- removed 
